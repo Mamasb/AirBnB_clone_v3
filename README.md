@@ -156,7 +156,5 @@ No known bugs at this time.
 ## Authors
 Philip Mwangi - [Github](https://github.com/mamasb
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
